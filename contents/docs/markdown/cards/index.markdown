@@ -1,3 +1,14 @@
+# **Pioneer Technical features**
+
+Based on SJ 12 years of experience and technology in the research, development and production of freeze-drying machines, the Pioneer laboratory freeze-dryer’s performance, stability, and control system all reach the top industry standards:
+
+- Ice Capacity range from 2L to 12L
+- Condenser Temperature:-60℃,-85℃ or -105 ℃ to meet a variety of applications
+- 7 inch touch-control system,simple operation.
+- Display Critical data: condenser temperature,sample temperautre and vacuum;display graph and data recording. vacuum and temperature correction to ensure long-term accuracy in use.
+- Power-off auto-recovery function: Allows customers to set the power-off restart time Alarm and prompt functions to prevent misoperation.
+- *Optional mobile phone/computer remote monitoring.
+
 ## **Pioneer 3L-60**
 
 | Pioneer 3L-60A                                               | Pioneer 3L-60B                                               | Pioneer 3L-60C                                               | Pioneer 3L-60D                                               | Pioneer 3L-60E                                               |
